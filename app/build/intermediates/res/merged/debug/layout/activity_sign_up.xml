@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background="#FFFFFF"
+    android:backgroundTint="#FFFFFF"
+    tools:context="com.example.hp.materialtabs.SignUp"
+    android:id="@+id/signUplayout">
+
+    <FrameLayout
+        android:id="@+id/overlay_fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#9C27B0"
+        android:theme="@style/TabTheme.AppBarOverlay">
+
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:subtitle="Please fill the below form"
+            android:subtitleTextColor="#FFFFFF"
+            android:title="Sign Up"
+            android:titleTextColor="#FFFFFF"
+            app:popupTheme="@style/TabTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+    <ImageView
+
+        android:layout_marginTop="45dp"
+        android:layout_width="33dp"
+        android:layout_height="33dp"
+        android:src="@drawable/logo1"
+        android:layout_gravity="bottom|center"
+        />
+    <include layout="@layout/content_sign_up" />
+
+
+</android.support.design.widget.CoordinatorLayout>

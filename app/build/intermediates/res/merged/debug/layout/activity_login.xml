@@ -1,0 +1,150 @@
+<!--suppress ALL -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:background="#FFFF"
+    tools:context="com.example.hp.materialtabs.LoginActivity">
+
+    <!-- Login progress -->
+    <ProgressBar
+        android:id="@+id/login_progress"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:visibility="gone" />
+    <include layout="@layout/custom_toolbar"></include>
+
+    <FrameLayout
+
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:src="@drawable/circle_s"/>
+
+            <LinearLayout
+                android:paddingTop="80dp"
+                android:id="@+id/login_form"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <ImageView
+                        android:paddingRight="6dp"
+                        android:layout_gravity="center"
+                        android:layout_width="23dp"
+                        android:layout_height="23dp"
+                        android:src="@drawable/user"/>
+                    <android.support.design.widget.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <AutoCompleteTextView
+                            android:backgroundTint="#00E676"
+                            android:id="@+id/email"
+                            android:layout_width="220dp"
+                            android:layout_gravity="center"
+                            android:layout_height="wrap_content"
+                            android:hint="@string/prompt_email"
+                            android:inputType="textEmailAddress"
+                            android:maxLines="1"
+                            android:singleLine="true" />
+
+                    </android.support.design.widget.TextInputLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_height="wrap_content">
+                    <ImageView
+
+                        android:paddingRight="6dp"
+                        android:layout_gravity="center"
+                        android:layout_width="23dp"
+                        android:layout_height="23dp"
+                        android:src="@drawable/lock"/>
+
+                    <android.support.design.widget.TextInputLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <EditText
+                            android:backgroundTint="#00E676"
+                            android:id="@+id/password"
+                            android:layout_width="220dp"
+                            android:layout_gravity="center"
+                            android:layout_height="wrap_content"
+                            android:hint="@string/prompt_password"
+                            android:imeActionId="@+id/login"
+                            android:imeActionLabel="@string/action_sign_in_short"
+                            android:imeOptions="actionUnspecified"
+                            android:inputType="textPassword"
+                            android:maxLines="1"
+                            android:singleLine="true" />
+
+                    </android.support.design.widget.TextInputLayout>
+
+                </LinearLayout>
+                <FrameLayout
+                    android:layout_marginTop="30dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center">
+
+                    <android.support.design.widget.FloatingActionButton
+                        android:id="@+id/email_sign_in_button"
+                        android:layout_gravity="center_horizontal|top"
+                        android:layout_width="match_parent"
+                        android:layout_height="43dp"
+                        android:layout_marginTop="16dp"
+                        android:src="@drawable/ic_done_white_24dp"
+                        />
+
+                    <ImageView
+                        android:paddingTop="10dp"
+                        android:layout_gravity="right|bottom"
+                        android:layout_width="67dp"
+                        android:layout_height="65dp"
+                        android:src="@drawable/blue_circle"
+                        />
+
+                </FrameLayout>
+            </LinearLayout>
+
+    </FrameLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New User ?"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="click here"
+        android:textColor="#f987ff"
+        android:onClick="signUpForm"/>
+<ImageView
+    android:layout_marginTop="25dp"
+    android:layout_width="33dp"
+    android:layout_height="33dp"
+    android:src="@drawable/logo1"
+    android:layout_gravity="bottom|center"
+    />
+
+</LinearLayout>

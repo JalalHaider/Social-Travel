@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaterialTabs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaterialTabs\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaterialTabs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_tick.png",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaterialTabs\\app\\src\\main\\res\\mipmap-mdpi\\ic_tick.png"
+    },
+    {
+        "merged": "C:\\Users\\Jalal Haider\\Desktop\\MaterialTabs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Jalal Haider\\Desktop\\MaterialTabs\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Jalal Haider\\Desktop\\MaterialTabs\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_tick.png",
+        "source": "C:\\Users\\Jalal Haider\\Desktop\\MaterialTabs\\app\\src\\main\\res\\mipmap-mdpi\\ic_tick.png"
+    }
+]

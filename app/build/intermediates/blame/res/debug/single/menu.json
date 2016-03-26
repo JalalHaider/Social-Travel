@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Jalal Haider\\Desktop\\MaterialTabs\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\Jalal Haider\\Desktop\\MaterialTabs\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaterialTabs\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaterialTabs\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jalal Haider\\Desktop\\MaterialTabs\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sign_up_menu.xml",
+        "source": "C:\\Users\\Jalal Haider\\Desktop\\MaterialTabs\\app\\src\\main\\res\\menu\\sign_up_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\AndroidStudioProjects\\MaterialTabs\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sign_up_menu.xml",
+        "source": "C:\\Users\\hp\\AndroidStudioProjects\\MaterialTabs\\app\\src\\main\\res\\menu\\sign_up_menu.xml"
+    }
+]
