@@ -7,8 +7,8 @@ import java.util.List;
 public class User{
 	private userLists lists;
 	private String name;
-	private long PhoneNo;
-	private String Email;
+	private long phoneNo;
+	private String email;
 	private String password;
 	private String description;
 	private String gender;
@@ -16,6 +16,12 @@ public class User{
 		lists=new userLists();
 		// TODO Auto-generated constructor stub
 	}
+	public User(String Email,String pass) {
+		lists=new userLists();
+		this.email=Email;
+		this.password=pass;
+	}
+
 
 	public String getName() {
 		return name;
@@ -45,6 +51,11 @@ public class User{
 		// TODO Auto-generated method stub
 		return "Name :"+this.name+" Password :"+this.password; 
 	}
+
+	public String getEmail() {
+		return email;
+	}
+
 	protected class userLists
 
 	{
@@ -71,4 +82,5 @@ public class User{
 		}
 
 	}
+
 }

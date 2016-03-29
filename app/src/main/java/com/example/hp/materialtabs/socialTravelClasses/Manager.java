@@ -12,7 +12,9 @@ public class Manager {
 	private Manager() {
 		//user=new User();
 		userslist= new ArrayList<User>();
-
+		userslist.add(new User("jalal@gmail.com", "j123"));
+		userslist.add(new User("sonia@gmail.com", "s123"));
+		userslist.add(new User("ayesha@gmail.com", "a123"));
 
 	}
 	public boolean addUser(User obj){

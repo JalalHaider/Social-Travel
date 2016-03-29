@@ -33,14 +33,7 @@
             app:popupTheme="@style/TabTheme.PopupOverlay" />
 
     </android.support.design.widget.AppBarLayout>
-    <ImageView
 
-        android:layout_marginTop="45dp"
-        android:layout_width="33dp"
-        android:layout_height="33dp"
-        android:src="@drawable/logo1"
-        android:layout_gravity="bottom|center"
-        />
     <include layout="@layout/content_sign_up" />
 
 

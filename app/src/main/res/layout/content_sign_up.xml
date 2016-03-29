@@ -14,153 +14,184 @@
     tools:showIn="@layout/activity_sign_up"
     android:id="@+id/signUplayout">
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:orientation="horizontal"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="40dp">
-
-        <ImageView
-            android:layout_marginLeft="10dp"
-            android:id="@+id/profile_image"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/circle_image" />
-
-        <ImageView
-            android:layout_marginLeft="50dp"
-            android:layout_gravity="center"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/image_description"/>
-
-    </LinearLayout>
-
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginRight="10dp"
-        android:orientation="horizontal">
-
-        <android.support.design.widget.TextInputLayout
+    <ScrollView
+        android:layout_width="371dp"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:id="@+id/container"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_weight="1">
-
-            <AutoCompleteTextView
-                android:id="@+id/fname"
-                android:layout_width="160dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:backgroundTint="#F3E5F5"
-                android:hint="First Name"
-                android:maxLines="1"
-                android:singleLine="true" />
+                android:layout_marginBottom="40dp">
 
-        </android.support.design.widget.TextInputLayout>
+                <ImageView
+                    android:layout_marginLeft="10dp"
+                    android:id="@+id/profile_image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/circle_image" />
 
-        <android.support.design.widget.TextInputLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_weight="1">
+                <ImageView
+                    android:layout_marginLeft="50dp"
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/image_description"/>
 
-            <AutoCompleteTextView
-                android:id="@+id/lname"
-                android:layout_width="170dp"
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:backgroundTint="#F3E5F5"
-                android:hint="Last Name"
-                android:maxLines="1"
-                android:singleLine="true" />
+                android:layout_marginRight="10dp"
+                android:orientation="horizontal">
 
-        </android.support.design.widget.TextInputLayout>
-    </LinearLayout>
-<LinearLayout
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:layout_marginRight="10dp"
-    android:orientation="horizontal">
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
 
-    <RadioButton
-        android:layout_weight="1"
-        android:layout_width="wrap_content"
-        android:layout_height="60dp"
-        android:text="Male"
-        android:id="@+id/maleBtn" />
+                    <AutoCompleteTextView
+                        style="@style/font_stylePurple"
+                        android:id="@+id/fname"
+                        android:layout_width="160dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:backgroundTint="#F3E5F5"
+                        android:hint="First Name"
+                        android:maxLines="1"
+                        android:singleLine="true" />
 
-    <RadioButton
-        android:layout_weight="1"
-        android:layout_width="wrap_content"
-        android:layout_height="60dp"
-        android:text="Female"
-        android:id="@+id/femaleBtn" />
+                </android.support.design.widget.TextInputLayout>
 
-</LinearLayout>
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
 
-    <android.support.design.widget.TextInputLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+                    <AutoCompleteTextView
+                        style="@style/font_stylePurple"
+                        android:id="@+id/lname"
+                        android:layout_width="170dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:backgroundTint="#F3E5F5"
+                        android:hint="Last Name"
+                        android:maxLines="1"
+                        android:singleLine="true" />
 
-        <AutoCompleteTextView
-            android:id="@+id/email"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="left"
-            android:backgroundTint="#F3E5F5"
-            android:hint="Email Id"
-            android:inputType="textEmailAddress"
-            android:maxLines="1"
-            android:singleLine="true" />
+                </android.support.design.widget.TextInputLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:orientation="horizontal">
 
-    </android.support.design.widget.TextInputLayout>
+               <RadioGroup
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:orientation="horizontal">
+                   <RadioButton
+                       style="@style/font_stylePurple"
+                       android:layout_weight="1"
+                       android:layout_width="wrap_content"
+                       android:layout_height="60dp"
+                       android:text="Male"
+                       android:id="@+id/maleBtn"
+                       android:checked="true"/>
 
-    <android.support.design.widget.TextInputLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+                   <RadioButton
+                       style="@style/font_stylePurple"
+                       android:layout_weight="1"
+                       android:layout_width="wrap_content"
+                       android:layout_height="60dp"
+                       android:text="Female"
+                       android:id="@+id/femaleBtn"
+                       android:checked="false"/>
+               </RadioGroup>
 
-        <AutoCompleteTextView
-            android:id="@+id/contact"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="left"
-            android:backgroundTint="#F3E5F5"
-            android:hint="Contact No."
-            android:inputType="number"
-            android:maxLines="1"
-            android:singleLine="true" />
+            </LinearLayout>
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
 
-    </android.support.design.widget.TextInputLayout>
+                <AutoCompleteTextView
+                    style="@style/font_stylePurple"
+                    android:id="@+id/email"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:backgroundTint="#F3E5F5"
+                    android:hint="Email Id"
+                    android:inputType="textEmailAddress"
+                    android:maxLines="1"
+                    android:singleLine="true" />
 
-    <android.support.design.widget.TextInputLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+            </android.support.design.widget.TextInputLayout>
 
-        <AutoCompleteTextView
-            android:id="@+id/registrationCode"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="left"
-            android:backgroundTint="#F3E5F5"
-            android:hint="Registration No."
-            android:inputType="number"
-            android:maxLines="1"
-            android:singleLine="true" />
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
 
-    </android.support.design.widget.TextInputLayout>
+                <AutoCompleteTextView
 
-    <android.support.v7.widget.ButtonBarLayout
-        android:id="@+id/s"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-        <Button
+                    style="@style/font_stylePurple"
+                    android:id="@+id/contact"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:backgroundTint="#F3E5F5"
+                    android:hint="Contact No."
+                    android:inputType="number"
+                    android:maxLines="1"
+                    android:singleLine="true" />
 
-            android:id="@+id/signUpBtn"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Sign Up"
-            android:backgroundTint="#E0F2F1"/>
-    </android.support.v7.widget.ButtonBarLayout>
+            </android.support.design.widget.TextInputLayout>
 
+            <android.support.design.widget.TextInputLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <AutoCompleteTextView
+
+                    style="@style/font_stylePurple"
+                    android:id="@+id/registrationCode"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:backgroundTint="#F3E5F5"
+                    android:hint="Registration No."
+                    android:inputType="number"
+                    android:maxLines="1"
+                    android:singleLine="true" />
+
+            </android.support.design.widget.TextInputLayout>
+
+            <android.support.v7.widget.ButtonBarLayout
+                android:id="@+id/s"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp">
+                <Button
+
+                    android:id="@+id/signUpBtn"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Sign Up"
+                    android:backgroundTint="#E0F2F1"/>
+            </android.support.v7.widget.ButtonBarLayout>
+            <ImageView
+
+                android:layout_marginTop="4dp"
+                android:layout_width="33dp"
+                android:layout_height="33dp"
+                android:src="@drawable/logo1"
+                android:layout_gravity="bottom|center"
+                />
+        </LinearLayout>
+    </ScrollView>
 </LinearLayout>
