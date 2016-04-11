@@ -258,6 +258,9 @@
         <item name="android:windowSharedElementExitTransition">@android:transition/move</item>
 
     </style>
+    <style name="createLift" parent="AppTheme">
+
+    </style>
     <style name="floatingbtn" parent="Widget.Design.FloatingActionButton">
         <item name="android:colorAccent">#00E676</item>
     </style>

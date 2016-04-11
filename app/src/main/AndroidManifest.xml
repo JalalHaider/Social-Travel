@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hp.materialtabs">
+    package="com.example.hp.materialtabs" >
 
     <!-- To auto-complete the email text field in the login form with the user's emails -->
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
@@ -12,10 +12,10 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/TabTheme">
+        android:theme="@style/TabTheme" >
         <activity
             android:name=".LoginActivity"
-            android:theme="@style/TabTheme">
+            android:theme="@style/TabTheme" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -25,7 +25,7 @@
         <activity
             android:name=".SignUp"
             android:label="@string/title_activity_sign_up"
-            android:theme="@style/SignUpTheme">
+            android:theme="@style/SignUpTheme" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".LoginActivity" />
@@ -33,7 +33,8 @@
         <activity
             android:name=".HomeActivity"
             android:label="@string/title_activity_home"
-            android:theme="@style/TabTheme"></activity>
+            android:theme="@style/TabTheme" />
+
     </application>
 
 </manifest>

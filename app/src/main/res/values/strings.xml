@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Material Tabs</string>
+    <string name="app_name">Social Travel</string>
     <string name="one">ONE</string>
     <string name="two">TWO</string>
     <string name="three">THREE</string>
@@ -25,19 +25,23 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_home">HomeActivity</string>
 
+    <string name="nav_home">Home</string>
     <string name="drawer_open">open</string>
     <string name="drawer_close">close</string>
-    <string name="nav_item_home">Lifts you\'ve offered</string>
-    <string name="nav_item_friends">Lifts you\'ve taken</string>
+    <string name="nav_item_offer">Lifts you\'ve offered</string>
+    <string name="nav_item_taken">Lifts you\'ve taken</string>
     <string name="nav_item_notifications">Alerts</string>
+    <string name="nav_item_home">Home</string>
     <!-- navigation drawer item labels  -->
     <string-array name="nav_drawer_labels">
         <item>@string/nav_item_home</item>
-        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_offer</item>
+        <item>@string/nav_item_taken</item>
         <item>@string/nav_item_notifications</item>
     </string-array>
 
     <string-array name="imgs">
+        <item>@drawable/white_logo</item>
         <item>@drawable/steering</item>
         <item>@drawable/passes</item>
         <item>@drawable/alert</item>
@@ -46,4 +50,5 @@
     <string name="title_messages">Messages</string>
     <string name="title_friends">Friends</string>
     <string name="title_home">Home</string>
+    <string name="title_activity_lift_create">LiftCreate</string>
 </resources>

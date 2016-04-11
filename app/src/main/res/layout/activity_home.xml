@@ -17,8 +17,30 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical">
+            <!--customeToolbar-->
+            <android.support.design.widget.AppBarLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="142dp"
+                android:backgroundTint="#FFFF"
+                android:id="@+id/customtoolbar"
+                android:visibility="visible"
+                app:elevation="0dp">
 
-            <include layout="@layout/custom_toolbar"></include>
+                <android.support.v7.widget.Toolbar
+                    android:id="@+id/toolbar"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:popupTheme="@style/TabTheme.PopupOverlay">
+
+                </android.support.v7.widget.Toolbar>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/logo2" />
+            </android.support.design.widget.AppBarLayout>
         </LinearLayout>
         <LinearLayout
             android:id="@+id/content_container"
@@ -90,10 +112,13 @@
             </LinearLayout>
 
             <ImageView
+                android:onClick="showCalender"
+                android:clickable="true"
+                android:background="@drawable/custom_bg"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:layout_marginTop="40dp"
-                android:src="@drawable/calender_ic" />
+                />
         </LinearLayout>
 
         <android.support.design.widget.FloatingActionButton

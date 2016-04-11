@@ -3,12 +3,14 @@ package com.example.hp.materialtabs;
 
 import android.content.Context;
 import android.os.Bundle;
+import android.support.v4.app.DialogFragment;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -70,22 +72,22 @@ public class HomeActivity extends AppCompatActivity implements FragmentDrawer.Fr
 
     private void displayView(int position) {
         Fragment fragment = null;
-        String title = getString(R.string.app_name);
         switch (position) {
             case 0:
-                fragment = new LiftOfferedFragment();
-                findViewById(R.id.content_container).setVisibility(View.GONE);
-                title = getString(R.string.title_home);
+                findViewById(R.id.content_container).setVisibility(View.VISIBLE);
+                fragment=null;
                 break;
             case 1:
-                fragment = new  LiftTakenFragment();
+                fragment = new LiftOfferedFragment();
                 findViewById(R.id.content_container).setVisibility(View.GONE);
-                title = getString(R.string.title_friends);
                 break;
             case 2:
+                fragment = new  LiftTakenFragment();
+                findViewById(R.id.content_container).setVisibility(View.GONE);
+                break;
+            case 3:
                 fragment = new AlertFragment();
                 findViewById(R.id.content_container).setVisibility(View.GONE);
-                title = getString(R.string.title_messages);
                 break;
             default:
                 break;
@@ -96,10 +98,15 @@ public class HomeActivity extends AppCompatActivity implements FragmentDrawer.Fr
             FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
             fragmentTransaction.replace(R.id.container_body, fragment);
             fragmentTransaction.commit();
+        }
+        else{
 
-            // set the toolbar title
-            getSupportActionBar().setTitle(title);
         }
     }
+    public void showCalender(View view){
+        Log.e("dskjfsd","sdjfiksknfkjs");
+        DialogFragment newFragment = new DatePickerFragment();
+        newFragment.show(getSupportFragmentManager(), "datePicker");
 
+    }
 }

@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="imgs">
+        <item>@drawable/white_logo</item>
         <item>@drawable/steering</item>
         <item>@drawable/passes</item>
         <item>@drawable/alert</item>
     </string-array>
     <string-array name="nav_drawer_labels">
         <item>@string/nav_item_home</item>
-        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_offer</item>
+        <item>@string/nav_item_taken</item>
         <item>@string/nav_item_notifications</item>
     </string-array>
     <attr format="reference" name="drawerArrowStyle"/>
@@ -289,7 +291,7 @@
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="action_sign_in">Sign in or register</string>
     <string name="action_sign_in_short">Sign in</string>
-    <string name="app_name">Material Tabs</string>
+    <string name="app_name">Social Travel</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="drawer_close">close</string>
@@ -299,9 +301,11 @@
     <string name="error_invalid_email">This email address is invalid</string>
     <string name="error_invalid_password">This password is too short</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="nav_item_friends">Lifts you\'ve taken</string>
-    <string name="nav_item_home">Lifts you\'ve offered</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_item_home">Home</string>
     <string name="nav_item_notifications">Alerts</string>
+    <string name="nav_item_offer">Lifts you\'ve offered</string>
+    <string name="nav_item_taken">Lifts you\'ve taken</string>
     <string name="one">ONE</string>
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
@@ -312,6 +316,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="three">THREE</string>
     <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_lift_create">LiftCreate</string>
     <string name="title_activity_login">Sign in</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="title_activity_sign_up">SignUp</string>

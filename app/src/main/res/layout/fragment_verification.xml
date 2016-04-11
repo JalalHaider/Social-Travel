@@ -1,11 +1,10 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:backgroundTint="#000000"
-    android:layout_marginTop="100dp"
     android:layout_gravity="center_horizontal"
+    android:background="#cc000000"
     android:orientation="vertical"
     tools:context="com.example.hp.materialtabs.Verification">
 
@@ -14,59 +13,60 @@
         style="?android:attr/progressBarStyleLarge"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
         android:layout_gravity="center_horizontal"
         android:layout_marginBottom="8dp"
+        android:layout_marginTop="50dp"
         android:visibility="gone" />
-    <FrameLayout
+
+    <RelativeLayout
         android:id="@+id/passCodeForm"
         android:layout_width="300dp"
+        android:layout_marginTop="70dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center">
-
         <android.support.design.widget.FloatingActionButton
             android:id="@+id/closeFrag"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="top|right"
-            app:backgroundTint="#FFFFFF"
-            android:src="@android:drawable/ic_menu_close_clear_cancel"/>
+            android:src="@android:drawable/ic_menu_close_clear_cancel"
+            app:backgroundTint="#FFFFFF" />
 
         <ImageView
-            android:layout_width="match_parent"
+            android:layout_width="300dp"
+            android:layout_height="340dp"
             android:layout_gravity="center"
-            android:layout_height="wrap_content"
-            android:src="@drawable/circle_s"/>
+            android:src="@drawable/circle_s" />
 
         <LinearLayout
-            android:paddingTop="80dp"
             android:id="@+id/login_form"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:paddingTop="80dp">
 
             <LinearLayout
-                android:layout_gravity="center"
                 android:layout_width="wrap_content"
-                android:orientation="vertical"
-                android:layout_height="wrap_content">
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="vertical">
 
                 <ImageView
                     android:layout_width="match_parent"
-                    android:layout_weight="2"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/verification_text"/>
+                    android:layout_weight="2"
+                    android:src="@drawable/verification_text" />
 
                 <android.support.design.widget.TextInputLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content">
 
                     <EditText
-                        android:backgroundTint="#00E676"
                         android:id="@+id/PassCode"
                         android:layout_width="120sp"
-                        android:layout_gravity="center"
                         android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:backgroundTint="#00E676"
                         android:hint="eg 43234"
                         android:imeActionId="@+id/login"
                         android:imeActionLabel="@string/action_sign_in_short"
@@ -78,24 +78,25 @@
                 </android.support.design.widget.TextInputLayout>
 
             </LinearLayout>
+
             <FrameLayout
-                android:layout_marginTop="30dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center">
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp">
+
                 <android.support.design.widget.FloatingActionButton
                     android:id="@+id/doneCode"
-                    android:layout_gravity="center_horizontal|top"
                     android:layout_width="match_parent"
                     android:layout_height="43dp"
+                    android:layout_gravity="center_horizontal|top"
                     android:layout_marginTop="16dp"
-                    app:backgroundTint="#9C27B0"
                     android:src="@drawable/ic_done_white_24dp"
-                    />
+                    app:backgroundTint="#9C27B0" />
 
             </FrameLayout>
         </LinearLayout>
 
-    </FrameLayout>
+    </RelativeLayout>
 
 </LinearLayout>
