@@ -1,0 +1,86 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="com.example.hp.testapp2.TueasdayFragment">
+    <ImageView
+        android:layout_marginLeft="91dp"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/blue_pointing_arrow"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+
+        android:background="#2196f3">
+        <TextView
+            android:id="@+id/return_trip"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Return Trip"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"/>
+        <android.support.v7.widget.SwitchCompat
+            android:id="@+id/toggleBtn"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/leave"
+            android:layout_below="@id/return_trip"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Leave Time"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"/>
+
+        <TextView
+            android:layout_below="@id/toggleBtn"
+            android:id="@+id/leave_time"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9:00 AM"
+            android:inputType="time"
+            android:onClick="showTimePickerDialog"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"/>
+        <TextView
+            android:id="@+id/returnTrip"
+            android:layout_below="@id/leave"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Return Time"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"/>
+        <TextView
+            android:id="@+id/return_time"
+            android:layout_below="@id/leave_time"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:onClick="showTimePickerDialog"
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9:00 AM"
+            android:inputType="time"
+            android:textSize="20sp"
+            android:textColor="#FFFFFF"/>
+    </RelativeLayout>
+
+</LinearLayout>
+

@@ -31,7 +31,7 @@
                     android:id="@+id/toolbar"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    app:popupTheme="@style/TabTheme.PopupOverlay">
+                    app:popupTheme="@style/AppThemeJ.PopupOverlay">
 
                 </android.support.v7.widget.Toolbar>
 
@@ -47,90 +47,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
-
-        <ImageView
-            android:layout_width="110dp"
-            android:layout_height="110dp"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginBottom="20dp"
-            android:src="@drawable/find_a_lift" />
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
-            android:layout_marginLeft="10dp"
-            android:orientation="horizontal">
-
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="70dp"
-                android:layout_marginTop="25dp"
-                android:src="@drawable/node_to_node" />
-
-            <LinearLayout
-                android:layout_width="250dp"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="10dp"
-                android:orientation="vertical">
-
-                <android.support.design.widget.TextInputLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content">
-
-                    <AutoCompleteTextView
-                        android:id="@+id/wherefrom"
-                        android:layout_width="220dp"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="left"
-                        android:backgroundTint="#00E676"
-                        android:hint="Where From"
-                        android:inputType="text"
-                        android:maxLines="1"
-                        android:singleLine="true" />
-
-                </android.support.design.widget.TextInputLayout>
-
-                <android.support.design.widget.TextInputLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_marginBottom="30dp">
-
-                    <AutoCompleteTextView
-                        android:id="@+id/whereTo"
-                        android:layout_width="220dp"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="left"
-                        android:backgroundTint="#00E676"
-                        android:hint="where To"
-                        android:inputType="text"
-                        android:maxLines="1"
-                        android:singleLine="true" />
-
-                </android.support.design.widget.TextInputLayout>
-
-            </LinearLayout>
-
-            <ImageView
-                android:onClick="showCalender"
-                android:clickable="true"
-                android:background="@drawable/custom_bg"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginTop="40dp"
-                />
         </LinearLayout>
-
-        <android.support.design.widget.FloatingActionButton
-            android:id="@+id/email_sign_in_button"
-            android:layout_width="match_parent"
-            android:layout_height="43dp"
-            android:layout_gravity="center_horizontal|top"
-            android:layout_marginBottom="20dp"
-            android:layout_marginTop="16dp"
-            android:src="@drawable/ic_done_white_24dp" />
-        </LinearLayout>
-
         <FrameLayout
             android:id="@+id/container_body"
             android:layout_width="fill_parent"

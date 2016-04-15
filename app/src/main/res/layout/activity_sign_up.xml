@@ -19,7 +19,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#9C27B0"
-        android:theme="@style/TabTheme.AppBarOverlay">
+        android:theme="@style/AppThemeJ.AppBarOverlay">
 
 
         <android.support.v7.widget.Toolbar
@@ -30,7 +30,7 @@
             android:subtitleTextColor="#FFFFFF"
             android:title="Sign Up"
             android:titleTextColor="#FFFFFF"
-            app:popupTheme="@style/TabTheme.PopupOverlay" />
+            app:popupTheme="@style/AppThemeJ.PopupOverlay" />
 
     </android.support.design.widget.AppBarLayout>
 

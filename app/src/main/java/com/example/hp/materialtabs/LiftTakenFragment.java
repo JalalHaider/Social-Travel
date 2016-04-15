@@ -43,7 +43,7 @@ public class LiftTakenFragment extends Fragment {
 
     public static List<MyInfo> getData() {
         List<MyInfo> data = new ArrayList<MyInfo>();
-        int nodeIc = R.drawable.circles_node;
+        int nodeIc = R.drawable.node_to_node_green;
         int convoIc = R.drawable.convo_ic;
 
         String[][] info = {{"Johar, Karachi", "Iqra University Defence, Karachi"}

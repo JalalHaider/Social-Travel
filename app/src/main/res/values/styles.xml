@@ -5,12 +5,14 @@
         <!-- Customize your theme here. -->
         <item name="windowNoTitle">true</item>
         <item name="windowActionBar">false</item>
-        <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:colorControlHighlight">@color/colorHighlight</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDarkBlue</item>
+        <item name="android:colorPrimary">@color/colorPrimaryBlue</item>
+        <item name="colorAccent">@color/colorAccentGreen</item>
+        <item name="android:colorControlHighlight">@color/colorPrimaryBlue</item>
     </style>
 
-    <style name="TabTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppThemeJ.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
-    <style name="TabTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="AppThemeJ.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
 </resources>

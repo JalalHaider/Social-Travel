@@ -12,6 +12,14 @@
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\textv.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\textv.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_create_lift.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\content_create_lift.xml"
+    },
+    {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_alert.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\fragment_alert.xml"
     },
@@ -44,8 +52,20 @@
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_friday.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\fragment_friday.xml"
+    },
+    {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_find_lift.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\content_find_lift.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_profile.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\content_profile.xml"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
@@ -56,12 +76,20 @@
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wednesday.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\fragment_wednesday.xml"
+    },
+    {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_saturday.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\fragment_saturday.xml"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
@@ -84,6 +112,10 @@
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contribution_and_seat.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\activity_contribution_and_seat.xml"
+    },
+    {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
     },
@@ -94,6 +126,10 @@
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lift_create.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\activity_lift_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_find_lift.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\fragment_find_lift.xml"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_drawer_row.xml",
@@ -110,6 +146,10 @@
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_layout_find_lift_list.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\row_layout_find_lift_list.xml"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_navigation_drawer.xml",
@@ -148,6 +188,14 @@
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
     },
     {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_thursday.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\fragment_thursday.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_sunday.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\fragment_sunday.xml"
+    },
+    {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
     },
@@ -176,12 +224,20 @@
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
     },
     {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_create_lift.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\fragment_home_create_lift.xml"
+    },
+    {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_lift.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\activity_create_lift.xml"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
@@ -194,6 +250,14 @@
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_monday.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\fragment_monday.xml"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
@@ -256,7 +320,19 @@
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\recycle_view_row.xml"
     },
     {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_contribution_and_seat.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\content_contribution_and_seat.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_tueasday.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\fragment_tueasday.xml"
+    },
+    {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_find_lift.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\layout\\activity_find_lift.xml"
     }
 ]

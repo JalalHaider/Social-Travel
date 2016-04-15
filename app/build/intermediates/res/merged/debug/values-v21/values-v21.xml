@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="design_navigation_padding_top_default">24dp</dimen>
+    <style name="AppThemeJ" parent="AppTheme">
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDarkBlue</item>
+        <item name="android:colorPrimary">@color/colorPrimaryBlue</item>
+        <item name="colorAccent">@color/colorAccentGreen</item>
+        <item name="android:colorControlHighlight">@color/colorPrimaryBlue</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowSharedElementEnterTransition">@android:transition/move</item>
+        <item name="android:windowSharedElementExitTransition">@android:transition/move</item>
+
+    </style>
     <style name="Base.TextAppearance.AppCompat" parent="android:TextAppearance.Material"/>
     <style name="Base.TextAppearance.AppCompat.Body1" parent="android:TextAppearance.Material.Body1"/>
     <style name="Base.TextAppearance.AppCompat.Body2" parent="android:TextAppearance.Material.Body2"/>
@@ -211,6 +223,18 @@
     <style name="Base.Widget.AppCompat.TextView.SpinnerItem" parent="android:Widget.Material.TextView.SpinnerItem"/>
     <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation" parent="android:Widget.Material.Toolbar.Button.Navigation">
     </style>
+    <style name="LiftCreateTheme" parent="SignUpTheme">
+        <item name="android:colorAccent">@color/colorAccentGreen</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDarkBlue</item>
+        <item name="android:colorPrimary">@color/colorPrimaryBlue</item>
+        <item name="android:colorControlHighlight">@color/colorPrimaryBlue</item>
+    </style>
+    <style name="LiftFindTheme" parent="SignUpTheme">
+        <item name="android:colorAccent">@color/colorAccentBlue</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDarkGreen</item>
+        <item name="android:colorPrimary">@color/colorPrimaryGreen</item>
+        <item name="android:colorControlHighlight">@color/colorPrimaryGreen</item>
+    </style>
     <style name="Platform.AppCompat" parent="android:Theme.Material">
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
@@ -237,29 +261,30 @@
     </style>
     <style name="Platform.ThemeOverlay.AppCompat.Dark"/>
     <style name="Platform.ThemeOverlay.AppCompat.Light"/>
+    <style name="ProfileTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#9c27b0</item>
+        <item name="colorPrimaryDark">#7b1fa2</item>
+        <item name="colorAccent">#00E676</item>
+        <item name="android:colorControlHighlight">#9c27b0</item>
+    </style>
     <style name="SignUpTheme" parent="AppTheme">
-        <item name="android:colorAccent">#9C27B0</item>
-        <item name="android:colorPrimaryDark">#7B1FA2</item>
-        <item name="android:colorPrimary">#9C27B0</item>
+        <item name="android:colorAccent">@color/colorAccentYellow</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDarkPurple</item>
+        <item name="android:colorPrimary">@color/colorPrimaryPurple</item>
+        <item name="android:colorControlHighlight">@color/colorPrimaryPurple</item>
         <item name="android:windowContentTransitions">true</item>
         <item name="android:windowAllowEnterTransitionOverlap">true</item>
         <item name="android:windowAllowReturnTransitionOverlap">true</item>
         <item name="android:windowSharedElementEnterTransition">@android:transition/move</item>
         <item name="android:windowSharedElementExitTransition">@android:transition/move</item>
-
-
     </style>
-    <style name="TabTheme" parent="AppTheme">
-        <item name="android:colorPrimaryDark">#0D47A1</item>
-        <item name="android:windowContentTransitions">true</item>
-        <item name="android:windowAllowEnterTransitionOverlap">true</item>
-        <item name="android:windowAllowReturnTransitionOverlap">true</item>
-        <item name="android:windowSharedElementEnterTransition">@android:transition/move</item>
-        <item name="android:windowSharedElementExitTransition">@android:transition/move</item>
-
-    </style>
-    <style name="createLift" parent="AppTheme">
-
+    <style name="createLiftTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryDark">#1976D2</item>
+        <item name="colorAccent">#00E676</item>
+        <item name="android:colorControlHighlight">#2196F3</item>
     </style>
     <style name="floatingbtn" parent="Widget.Design.FloatingActionButton">
         <item name="android:colorAccent">#00E676</item>
@@ -274,4 +299,5 @@
         <item name="android:fontFamily">sans-serif-light</item>
         <item name="android:textSize">20sp</item>
     </style>
+    <style name="profileTheme" parent="SignUpTheme"/>
 </resources>

@@ -18,10 +18,10 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/TabTheme" >
+        android:theme="@style/AppThemeJ" >
         <activity
             android:name="com.example.hp.materialtabs.LoginActivity"
-            android:theme="@style/TabTheme" >
+            android:theme="@style/AppThemeJ" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -39,7 +39,39 @@
         <activity
             android:name="com.example.hp.materialtabs.HomeActivity"
             android:label="@string/title_activity_home"
-            android:theme="@style/TabTheme" />
+            android:theme="@style/AppThemeJ" />
+        <activity
+            android:name="com.example.hp.materialtabs.LiftCreatePack.CreateLiftActivity"
+            android:label="@string/title_activity_create_lift"
+            android:theme="@style/createLiftTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HomeActivity" />
+        </activity>
+        <activity
+            android:name="com.example.hp.materialtabs.LiftCreatePack.ContributionAndSeatActivity"
+            android:label="@string/title_activity_contribution_and_seat"
+            android:theme="@style/createLiftTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".LiftCreatePack.CreateLiftActivity" />
+        </activity>
+        <activity
+            android:name="com.example.hp.materialtabs.FindLiftPAck.FindLiftActivity"
+            android:label="@string/title_activity_find_lift"
+            android:theme="@style/LiftFindTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HomeActivity" />
+        </activity>
+        <activity
+            android:name="com.example.hp.materialtabs.ProfileActivity"
+            android:label="@string/title_activity_profile"
+            android:theme="@style/ProfileTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".HomeActivity" />
+        </activity>
     </application>
 
 </manifest>

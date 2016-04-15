@@ -1,55 +1,67 @@
 [
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\passenger_ds.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\passenger_ds.png"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\close.png"
-    },
-    {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lock.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\lock.png"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\go_btn_ic.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\go_btn_ic.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lift_taken_ic.png",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\lift_taken_ic.png"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\steering_lift.png",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\steering_lift.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\description.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\description.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticket_green.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\ticket_green.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_profile.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\ic_profile.png"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line_ic.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\line_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thu.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\thu.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\find_a_lift.png",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\find_a_lift.png"
     },
     {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_profile_grey2.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\ic_profile_grey2.png"
+    },
+    {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\closed.PNG",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\closed.PNG"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_nodetonode.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\blue_nodetonode.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tue.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\tue.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calender_ic.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\calender_ic.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
@@ -58,6 +70,10 @@
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cross_ic.png",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\cross_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map_ic.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\map_ic.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_bg.xml",
@@ -72,8 +88,8 @@
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\node_to_node.png"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_logo.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\white_logo.png"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_box_ic.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\comment_box_ic.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
@@ -82,6 +98,210 @@
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plus.png",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lift_offer.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\ic_lift_offer.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_circle.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\red_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\offer_lift_plus_ic.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\offer_lift_plus_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filled_sun.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\filled_sun.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fri.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\fri.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_purple.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\edit_purple.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_description2.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\image_description2.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filled_fri.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\filled_fri.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cross_ic_green.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\cross_ic_green.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smoking.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\smoking.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_circle.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\border_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\alert.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cross.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\cross.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_circle_profile.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\blue_circle_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sun.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\sun.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_ring_circle.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\blue_ring_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\confirm_ds.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\confirm_ds.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\node_grey.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\node_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\steering.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\steering.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\offer_lift_ic.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\offer_lift_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user_ic_male.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\user_ic_male.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filled_wed.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\filled_wed.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\food.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\food.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lock.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\days_selection.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\days_selection.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filled_tue.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\filled_tue.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_profile.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ring_blue.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\ring_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_smoking.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\no_smoking.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wed.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\wed.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\closed.PNG",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\closed.PNG"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_logo.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\white_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calender_ic_sec.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\calender_ic_sec.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_food.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\no_food.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lift_offer_circle.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\lift_offer_circle.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_ic.png",
@@ -100,92 +320,84 @@
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filled_blue_circle.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\filled_blue_circle.png"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filled_thu.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\filled_thu.png"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lift_offer.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\ic_lift_offer.png"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_seat.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\edit_seat.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_circle.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\red_circle.png"
-    },
-    {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sat.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\sat.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custome_bg_pink.xml",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\custome_bg_pink.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next_arrow.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\next_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rule_ds.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\rule_ds.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\convo_ic.png",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\convo_ic.png"
     },
     {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rating_circle.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\rating_circle.png"
+    },
+    {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\verification_text.PNG",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\verification_text.PNG"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line_breaker_green.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\line_breaker_green.png"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_description2.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\image_description2.png"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_profile_grey.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\ic_profile_grey.png"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cross_ic_green.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\cross_ic_green.png"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filled_mon.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\filled_mon.png"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\logo2.png"
-    },
-    {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\edit.png"
-    },
-    {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_circle.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\border_circle.png"
-    },
-    {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\alert.png"
-    },
-    {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cross.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\cross.png"
-    },
-    {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_circle_profile.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\blue_circle_profile.png"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_pointing_arrow.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\blue_pointing_arrow.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\right_white_toggle.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\right_white_toggle.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lift_taken_circle.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\lift_taken_circle.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
@@ -196,12 +408,24 @@
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\logo1.png"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\user.png"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mon.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\mon.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\date_time_ic.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\date_time_ic.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\note.PNG",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\note.PNG"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\filled_sat.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\filled_sat.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticket.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\ticket.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
@@ -220,24 +444,20 @@
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\switch_icon.png"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\node_grey.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\node_grey.png"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_ic.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\search_ic.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\steering.png",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\steering.png"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\node_to_node_green.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\node_to_node_green.png"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_s.png",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\circle_s.png"
-    },
-    {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tickets.png",
@@ -246,10 +466,6 @@
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_circle.png",
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\green_circle.png"
-    },
-    {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_image.PNG",
@@ -268,7 +484,11 @@
         "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\ic_done_white_24dp.png"
     },
     {
-        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_pencil.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\edit_pencil.png"
+    },
+    {
+        "merged": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left_white_toggle.png",
+        "source": "C:\\Users\\hp\\Desktop\\Jalal Haider\\FYP\\Social-Travel2\\app\\src\\main\\res\\drawable\\left_white_toggle.png"
     }
 ]
